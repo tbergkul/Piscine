@@ -1,0 +1,5 @@
+Credentials cache: API:CE2BC2E2-3769-4A6F-8C7A-26F7B5959026
+        Principal: tbergkul@HIVE.FI
+
+  Issued                Expires               Principal
+Jul  9 12:29:12 2019  Jul  9 22:29:12 2019  krbtgt/HIVE.FI@HIVE.FI
